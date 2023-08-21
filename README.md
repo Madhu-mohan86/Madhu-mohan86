@@ -96,6 +96,5 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/scully86/scully86/output/snake.svg" alt="Snake animation" />
 
 ###
