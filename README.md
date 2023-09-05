@@ -14,10 +14,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=scully86.scully86&left_color=black&right_color=black"  />
-</div>
-
 ###
 
 <h1 align="center">hey there 👋 I'm Madhu mohan</h1>
@@ -28,7 +24,7 @@
 
 ###
 
-<p align="left">- 🌱 I’m currently learning Devops and Web3 development<br><br>- 👨‍💻 All of my projects are available at (github)<br><br>- 📝 I regularly write articles on (https://webfolio-xqt4.onrender.com/)<br><br>- 💬 Ask me about Javascript ,React<br><br>- ⚡ Fun fact : Roasting in twitter timeline is the new normal</p>
+<p align="left">- 🌱 I’m currently learning Devops and Web3 development<br><br>- 👨‍💻 All of my projects are available at (github)<br><br>- 📝 I regularly write articles on hashnode<br><br>- 💬 Ask me about Javascript , React<br><br>- ⚡ Fun fact : Roasting in twitter timeline is the new normal</p>
 
 ###
 
@@ -82,19 +78,11 @@
 
 ###
 
-
 ###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Madhu-mohan86&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Madhu-mohan86&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
-
-###
-
-
-
-###
-
 
 ###
