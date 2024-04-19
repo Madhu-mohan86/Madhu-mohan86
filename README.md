@@ -10,7 +10,7 @@
 
 ###
 
-<h1 align="center">hey there 👋 I'm Madhu mohan</h1>
+<h1 align="center">Hey there 👋 I'm Madhu mohan</h1>
 
 ###
 
@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">- 🌱 I’m currently learning Devops and Web3 development<br><br>- 👨‍💻 All of my projects are available at (github)<br><br>- 📝 I regularly write articles on hashnode<br><br>- 💬 Ask me about Javascript , React<br><br>- ⚡ Fun fact : Roasting in twitter timeline is the new normal</p>
+<p align="left">- 🌱 I’m currently learning Devops <br><br>- 👨‍💻 All of my projects are available at (github)<br><br>- 📝 I regularly write articles on hashnode<br><br>-<br><br></p>
 
 ###
 
